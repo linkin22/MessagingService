@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ramogiochola/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/ramogiochola/AndroidStudioProjects/MessagingService/Application/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_e72cfb1cd46704fc7f78520b15dd8bb97a46cc48.jar" />
+    </item>
+    <item
+        jar="/Users/ramogiochola/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/ramogiochola/AndroidStudioProjects/MessagingService/Application/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_e72cfb1cd46704fc7f78520b15dd8bb97a46cc48.jar" />
+    </item>
+    <item
+        jar="/Users/ramogiochola/AndroidStudioProjects/MessagingService/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a809555a2599054c3dcd1bf82b089315ac3a11df">
+        <dex dex="/Users/ramogiochola/AndroidStudioProjects/MessagingService/Application/build/intermediates/pre-dexed/debug/com.android.support-support-v13-23.3.0_e23f07d82f8beb34f93f71c6654fe7ec3402f555.jar" />
+    </item>
+    <item
+        jar="/Users/ramogiochola/AndroidStudioProjects/MessagingService/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a809555a2599054c3dcd1bf82b089315ac3a11df">
+        <dex dex="/Users/ramogiochola/AndroidStudioProjects/MessagingService/Application/build/intermediates/pre-dexed/debug/com.android.support-support-v13-23.3.0_e23f07d82f8beb34f93f71c6654fe7ec3402f555.jar" />
+    </item>
+    <item
+        jar="/Users/ramogiochola/AndroidStudioProjects/MessagingService/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/ramogiochola/AndroidStudioProjects/MessagingService/Application/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_da45e7c9631d648c51012d80c07f4365caae7c65.jar" />
+    </item>
+    <item
+        jar="/Users/ramogiochola/AndroidStudioProjects/MessagingService/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/ramogiochola/AndroidStudioProjects/MessagingService/Application/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_da45e7c9631d648c51012d80c07f4365caae7c65.jar" />
+    </item>
+    <item
+        jar="/Users/ramogiochola/AndroidStudioProjects/MessagingService/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8813bdcf7583107c4873150075d17c8072ec50cf">
+        <dex dex="/Users/ramogiochola/AndroidStudioProjects/MessagingService/Application/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_5fdda9c178709e2ae410a412e686be106e3e3e97.jar" />
+    </item>
+    <item
+        jar="/Users/ramogiochola/AndroidStudioProjects/MessagingService/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8813bdcf7583107c4873150075d17c8072ec50cf">
+        <dex dex="/Users/ramogiochola/AndroidStudioProjects/MessagingService/Application/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_5fdda9c178709e2ae410a412e686be106e3e3e97.jar" />
+    </item>
+    <item
+        jar="/Users/ramogiochola/AndroidStudioProjects/MessagingService/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="/Users/ramogiochola/AndroidStudioProjects/MessagingService/Application/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.3.0_6b66776d6d9866b5aa61013ba51db56bdc8542c1.jar" />
+    </item>
+    <item
+        jar="/Users/ramogiochola/AndroidStudioProjects/MessagingService/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="/Users/ramogiochola/AndroidStudioProjects/MessagingService/Application/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.3.0_6b66776d6d9866b5aa61013ba51db56bdc8542c1.jar" />
+    </item>
+    <item
+        jar="/Users/ramogiochola/AndroidStudioProjects/MessagingService/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/ramogiochola/AndroidStudioProjects/MessagingService/Application/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_06504071f9e6e4b148af00511611d20ed1188e0c.jar" />
+    </item>
+    <item
+        jar="/Users/ramogiochola/AndroidStudioProjects/MessagingService/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/ramogiochola/AndroidStudioProjects/MessagingService/Application/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_06504071f9e6e4b148af00511611d20ed1188e0c.jar" />
+    </item>
+    <item
+        jar="/Users/ramogiochola/AndroidStudioProjects/MessagingService/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bed4a98658053382c909f8e21ea42d472f2e7c00">
+        <dex dex="/Users/ramogiochola/AndroidStudioProjects/MessagingService/Application/build/intermediates/pre-dexed/debug/instant-run_ec59a3bffb2eae8657a1d97e4cad90213d26ae9a.jar" />
+    </item>
+    <item
+        jar="/Users/ramogiochola/AndroidStudioProjects/MessagingService/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9b3bb0116a82aa4b97087ee599a309b6fcd88afa">
+        <dex dex="/Users/ramogiochola/AndroidStudioProjects/MessagingService/Application/build/intermediates/pre-dexed/debug/instant-run-bootstrap_5490e01dba0fb86a024462456bd8713dbcfabc74.jar" />
+    </item>
+
+</items>
